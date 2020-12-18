@@ -1,7 +1,7 @@
 {
-  "name": "$name$",
-  "version": "$version$",
+  "name": "video-maker",
+  "version": "1.0.0",
   "dependencies": {
-    $END$
+    "readline-sync": "^1.4.10"
   }
 }
